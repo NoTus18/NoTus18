@@ -21,4 +21,4 @@ Football app where users vote on a consensus outcome of each game.
 `FastAPI` `PostgreSQL`
 
 ### Contact
-[LinkedIn](www.linkedin.com/in/j-f-sacramento) · [sacramentofilipe@gmail.com](mailto:sacramentofilipe@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/j-f-sacramento) · [sacramentofilipe@gmail.com](mailto:sacramentofilipe@gmail.com)
